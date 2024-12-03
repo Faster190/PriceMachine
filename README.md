@@ -39,6 +39,13 @@
 ### Как производить сортировку по другому столбцу?
 В теле метода класса load_prices, а точнее в его конце, при вызове метода "self._search_product_price_weight()" в качестве параметра передать строку-название необходимого столбца.
 
-===============================
+_________________________________
 ### Скриншоты работы программы:
 ![image](https://github.com/user-attachments/assets/60889e2b-616e-4b60-8ec7-90f934179d5e)
+![image](https://github.com/user-attachments/assets/dfdac08a-eb4e-48d6-aead-4ddaf3758fe3)
+![image](https://github.com/user-attachments/assets/67fc81ad-29be-4649-937e-b7450af63625)
+![image](https://github.com/user-attachments/assets/3259b6cc-d7be-4e5e-844b-e86191236f6c)
+![image](https://github.com/user-attachments/assets/3ad4c92a-1ec1-4dfc-b62d-25eaf49bac3d)
+
+
+
